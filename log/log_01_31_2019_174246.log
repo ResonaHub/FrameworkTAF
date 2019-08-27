@@ -1,0 +1,12 @@
+2019-Jan-31 17:42:20,344 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-31 17:42:20,383 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-31 17:42:22,335 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Taking screenshot
+2019-Jan-31 17:42:43,744 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Screenshot taken and saved to location
+2019-Jan-31 17:42:43,747 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Closing browser
+2019-Jan-31 17:42:44,593 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Closed browser

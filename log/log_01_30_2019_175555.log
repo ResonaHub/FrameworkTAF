@@ -1,0 +1,6 @@
+2019-Jan-30 17:55:55,880 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 17:55:55,884 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-30 17:55:55,961 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Opening chrome browser

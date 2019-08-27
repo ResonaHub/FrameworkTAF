@@ -1,0 +1,24 @@
+2019-Jan-30 17:57:09,216 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 17:57:09,257 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-30 17:57:35,135 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 17:57:35,136 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-30 17:57:35,162 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Setting page load time
+2019-Jan-30 17:57:35,169 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Selecting value from dropdown
+2019-Jan-30 17:57:35,172 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Locating xpath
+2019-Jan-30 17:57:38,628 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Selected value from dropdown
+2019-Jan-30 17:57:50,904 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Taking screenshot
+2019-Jan-30 17:57:54,501 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Screenshot taken and saved to location
+2019-Jan-30 17:57:54,505 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Closing browser
+2019-Jan-30 17:57:55,370 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Closed browser

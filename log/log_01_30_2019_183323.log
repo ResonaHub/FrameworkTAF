@@ -1,0 +1,16 @@
+2019-Jan-30 18:33:23,000 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 18:33:23,010 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-30 18:33:48,391 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 18:33:48,393 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-30 18:33:48,464 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Setting page load time
+2019-Jan-30 18:33:48,480 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Selecting value from dropdown
+2019-Jan-30 18:33:48,518 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Locating xpath
+2019-Jan-30 18:33:57,161 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Selected value from dropdown

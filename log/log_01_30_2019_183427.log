@@ -1,0 +1,14 @@
+2019-Jan-30 18:34:02,161 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Selecting value from dropdown
+2019-Jan-30 18:34:02,172 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Locating xpath
+2019-Jan-30 18:34:02,382 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Selected value from dropdown
+2019-Jan-30 18:34:20,908 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Taking screenshot
+2019-Jan-30 18:34:25,514 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Screenshot taken and saved to location
+2019-Jan-30 18:34:25,517 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Closing browser
+2019-Jan-30 18:34:26,312 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Closed browser

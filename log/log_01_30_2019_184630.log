@@ -1,0 +1,26 @@
+2019-Jan-30 18:46:30,935 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 18:46:30,942 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-30 18:46:31,028 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Opening chrome browser
+2019-Jan-30 18:46:43,670 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Opened chrome browser
+2019-Jan-30 18:46:43,762 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 18:46:43,763 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
+2019-Jan-30 18:46:43,763 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Launching https://goo.gl/5W34KL
+2019-Jan-30 18:46:52,135 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Launched https://goo.gl/5W34KL
+2019-Jan-30 18:46:52,135 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Setting implicit wait
+2019-Jan-30 18:46:52,145 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Setting page load time
+2019-Jan-30 18:46:53,517 [main] com.resonantiatechnologie.amazon.keyword.Keyword 
+  INFO  Maximizing window
+2019-Jan-30 18:46:53,519 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilizing propertyfile
+2019-Jan-30 18:46:53,520 [main] com.resonantiatechnologie.amazon.pom.base.PomBase 
+  INFO  Initilized propertyfile
